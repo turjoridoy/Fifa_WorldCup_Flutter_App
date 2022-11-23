@@ -4,13 +4,12 @@ A flutter app for Qatar World Cup
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is developed by FLUTTER. Project screenshots are given below.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Screenshot_1669185823](https://user-images.githubusercontent.com/20073532/203487423-05bb8215-8938-4551-8953-49a5dfbc8f83.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1669185856](https://user-images.githubusercontent.com/20073532/203488966-1d4a4fcc-ff98-4e32-864a-7301f1c06257.png)
+
+
+
